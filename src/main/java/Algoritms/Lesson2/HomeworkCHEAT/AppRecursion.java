@@ -1,4 +1,4 @@
-package Algoritms.Lesson2.Homework;
+package Algoritms.Lesson2.HomeworkCHEAT;
 
 public class AppRecursion {
     public static void main(String[] args) {
