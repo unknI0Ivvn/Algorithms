@@ -1,6 +1,4 @@
-package Algoritms.Lesson3.dc.HomeworkCHEAT;
-
-import java.util.Arrays;
+package Algoritms.Lesson3.dc.HomeworkCHEAT_TASKS_TOFIND;
 
 public class HomeworkCHEAT1_2TWOPOINTERS {
     public static void main(String[] args) {
